@@ -1,0 +1,6 @@
+1998-05-00011	|	alfa	|	sunny	|	18/5/1998	|	8000.0	|	Debit Account
+1998-05-00012	|	mr a	|	mr y	|	18/5/1998	|	5000.0	|	Credit Account
+1998-05-00011	|	Mr x	|	Test	|	18/5/1998	|	8000.0	|	Debit Account
+1998-05-00121	|	mr as	|	mr ka	|	18/5/1998	|	19900.0	|	Debit Account
+1998-05-00056	|	mr asd	|	mr zxc	|	18/5/1998	|	800.0	|	Debit Account
+1998-05-00089	|	mrqwdsf	|	efwff	|	18/5/1998	|	2900.0	|	Savings Account
